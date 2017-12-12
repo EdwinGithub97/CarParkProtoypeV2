@@ -9,3 +9,14 @@ E:\CarParkPrototype\CarParkPrototype\CarParkPrototype\obj\Debug\CarParkPrototype
 E:\CarParkPrototype\CarParkPrototype\CarParkPrototype\obj\Debug\CarParkPrototype.exe
 E:\CarParkPrototype\CarParkPrototype\CarParkPrototype\obj\Debug\CarParkPrototype.pdb
 E:\CarParkPrototype\CarParkPrototype\CarParkPrototype\obj\Debug\CarParkPrototype.Start.resources
+C:\Users\Arj\source\repos\CarParkProtoypeV2\CarParkPrototype - Copy\CarParkPrototype\CarParkPrototype\bin\Debug\CarParkPrototype.exe.config
+C:\Users\Arj\source\repos\CarParkProtoypeV2\CarParkPrototype - Copy\CarParkPrototype\CarParkPrototype\bin\Debug\CarParkPrototype.exe
+C:\Users\Arj\source\repos\CarParkProtoypeV2\CarParkPrototype - Copy\CarParkPrototype\CarParkPrototype\bin\Debug\CarParkPrototype.pdb
+C:\Users\Arj\source\repos\CarParkProtoypeV2\CarParkPrototype - Copy\CarParkPrototype\CarParkPrototype\obj\Debug\CarParkPrototype.csprojResolveAssemblyReference.cache
+C:\Users\Arj\source\repos\CarParkProtoypeV2\CarParkPrototype - Copy\CarParkPrototype\CarParkPrototype\obj\Debug\CarParkPrototype.Form1.resources
+C:\Users\Arj\source\repos\CarParkProtoypeV2\CarParkPrototype - Copy\CarParkPrototype\CarParkPrototype\obj\Debug\CarParkPrototype.Properties.Resources.resources
+C:\Users\Arj\source\repos\CarParkProtoypeV2\CarParkPrototype - Copy\CarParkPrototype\CarParkPrototype\obj\Debug\CarParkPrototype.Start.resources
+C:\Users\Arj\source\repos\CarParkProtoypeV2\CarParkPrototype - Copy\CarParkPrototype\CarParkPrototype\obj\Debug\CarParkPrototype.csproj.GenerateResource.Cache
+C:\Users\Arj\source\repos\CarParkProtoypeV2\CarParkPrototype - Copy\CarParkPrototype\CarParkPrototype\obj\Debug\CarParkPrototype.csproj.CoreCompileInputs.cache
+C:\Users\Arj\source\repos\CarParkProtoypeV2\CarParkPrototype - Copy\CarParkPrototype\CarParkPrototype\obj\Debug\CarParkPrototype.exe
+C:\Users\Arj\source\repos\CarParkProtoypeV2\CarParkPrototype - Copy\CarParkPrototype\CarParkPrototype\obj\Debug\CarParkPrototype.pdb
